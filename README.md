@@ -46,4 +46,27 @@
 ```
 
 
+```
+SA RE GA MA PA DHA NI SA
+SA NI DHA PA MA GA RE SA
+
+sa sa re re ga ga ma ma pa pa dha dha ni ni sa sa
+sa sa ni ni dha dha pa pa ma ma ga ga re re sa sa
+
+sa re ga re ga ma ga ma pa ma pa dha pa dha ni dha ni sa
+sa ni dha ni dha pa dha pa ma pa ma ga ma ga re ga re sa
+
+sa re ga ma re ga ma pa ga ma pa dha ma pa dha ni pa dha ni sa
+sa ni dha pa ni dha pa ma dha pa ma ga pa ma ga re ma ga re sa
+
+sa ga re ma ga pa ma dha pa ni dha sa
+sa dha ni pa dha ma pa ga ma re ga sa
+
+sa ma re pa ga dha ma ni pa sa
+sa pa ni ma dha ga pa re ma sa
+
+sarega sarega saregama, regama regama regamapa, gamapa gamapa gamapadha, mapadha mapadha mapadhani, padhani padhani padhanisa
+sanidha sanidha sanidhapa, nidhapa nidhapa nidhapama, dhapama dhapama dhapamaga, pamaga pamaga pamagare, magare magare magaresa
+```
+
 
