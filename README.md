@@ -1,20 +1,7 @@
 
-स्वर -
-
-सा रे रे ग ग म मॅ प ध ध नि नि 
-
-स्वर -																							
-सा		रे		रे		ग		ग		म		मॅ		प		ध		ध		नि		नि	
 
 
-
-सा	-	षड्ज	
-रे	-	ऋषभ	
-ग	-	गंधार	
-म	-	मध्यम	
-प	-	पंचम	
-ध	-	धैवत	
-नि	-	निषाद	
+![image](https://user-images.githubusercontent.com/59148909/205360900-9c26de4a-a96e-463d-99a4-ec7d77d13ff6.png)
 
 ![image](https://user-images.githubusercontent.com/59148909/205009931-f87fb58c-7154-46c5-bf20-7172cce2b545.png)
 
