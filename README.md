@@ -3,13 +3,6 @@
 ![image](https://user-images.githubusercontent.com/59148909/206269486-ea18b263-d187-4d96-be4a-d0e33be98845.png)
 
 
-![image](https://user-images.githubusercontent.com/59148909/205360900-9c26de4a-a96e-463d-99a4-ec7d77d13ff6.png)
-
-![image](https://user-images.githubusercontent.com/59148909/205009931-f87fb58c-7154-46c5-bf20-7172cce2b545.png)
-
-![image](https://user-images.githubusercontent.com/59148909/205707801-e0d57e88-227c-467b-8d8c-12488768cb93.png)
-
-
 # Alankar
 
 ```
